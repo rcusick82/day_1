@@ -1,0 +1,118 @@
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+.go_to_console-container {
+  background: #fabc05;
+  padding: 5px;
+  width: 169px;
+}
+
+.go_to_console {
+  border: 1px solid #f6ada1;
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+  background: #1b73e7;
+  color: #fbfcff;
+  padding: 13px 29px;
+  border-radius: 4px;
+  letter-spacing: 0.6px;
+  font-weight: 600;
+}
+.get_started-container {
+  width: 175px;
+  height: 74px;
+}
+.get_started {
+  border: 1px solid #7953b3;
+  background-color: white;
+  border-radius: 5px;
+  margin-left: 10px;
+  color: #7953b3;
+  padding: 17px 28px;
+  font-weight: 600;
+  font-size: 19px;
+  letter-spacing: -.7px;
+}
+.get_started-container1 {
+  width: 170px;
+  height: 89px;
+}
+.get_started1 {
+  border-radius: 5px;
+  background-color: #5B6AC4;
+  color: white;
+  letter-spacing: -.7px;
+  font-weight: bold;
+  padding: 12px 30px;
+  font-size: 16px;
+  margin-left: 8px;
+}
+.webhook-container {
+  width: 120px;
+  height: 44px;
+  margin-left: 10px;
+}
+.webhook {
+  border: 1px solid #CECFD1;
+  background-color: #F1F5F7;
+  color: #24292F;
+  font-weight: bold;
+  font-size: 12px;
+  border-radius: 4px;
+  padding: 5px 7px;
+}
+.catalog-container {
+  width: 268px;
+  height: 81px;
+  margin-left: 15px;
+}
+.catalog {
+  border-radius: 25px;
+  background-color: #48B882;
+  color: #F2FEF9;
+  font-size: 15px;
+  padding: 15px 25px;
+  font-weight: 500;
+}
+.login-container {
+  width: 89px;
+  height: 47px;
+}
+.login {
+  border-radius: 5px;
+  color: #666666;
+  border: 1px solid #B8B8B8;
+  background-color: white;
+  font-weight: bold;
+  letter-spacing: .2px;
+  font-size: 14px;
+  padding: 7px 16px;
+  margin-left: 7px;
+}
+.sign-up-container {
+  width: 99px;
+  height: 51px;
+}
+.sign-up {
+  background-color: #F9492C;
+  color: #FFFFFF;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 8px 16px;
+  margin-left: 5px;
+}
+.sign-up-free-container {
+  width: 180px;
+  height: 71px;
+}
+.sign-up-free {
+border-radius: 5px;
+color: #FFFFFF;
+background-color: #53BAD5;
+font-weight: bold;
+font-size: 17px;
+padding: 10px 25px;
+margin-left: 10px;
+}
